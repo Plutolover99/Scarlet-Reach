@@ -7,7 +7,7 @@
 	spawn_positions = 2
 	allowed_races = RACES_ALL_KINDS
 	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED)
-	tutorial = "Working under the tutelage of the court physician, you still remain a mere apprentice in the medical arts. Woe is the one who has to suffer your hand holding the scalpel when your master is out."
+	tutorial = "For years you've cut people open and sewn them back up. Your eyes know the insides of most men better than their own. Along with the Court Physician you run the apothecary where you cut people open and brew all your potions."
 	outfit = /datum/outfit/job/roguetown/apothecary
 	cmode_music = 'sound/music/combat_physician.ogg'
 	display_order = JDO_APOTHECARY
